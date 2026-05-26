@@ -24,7 +24,7 @@
 gcc -S -O0 src/factorial.c -o factorial_O0.s
 gcc -S -O2 src/factorial.c -o factorial_O2.s
 gcc -S -O3 src/factorial.c -o factorial_O3.s
-
+```
 ### Автоматическая генерация (через Makefile):
 ```bash
 make asm
