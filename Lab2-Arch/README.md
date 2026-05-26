@@ -1,2 +1,2 @@
 ## Видеоотчет:
-См. файл `lab2-installation.mp4`
+ [Смотреть видео](https://drive.google.com/file/d/1EevK03H6XDrYddiKKZ35kdpG1QnZSXsh/view?usp=sharing)
